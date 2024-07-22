@@ -1,3 +1,4 @@
 Name,Description,Homepage
 apitrace,A set of tools to trace and replay rendering APIs,https://apitrace.github.io/
 sysprof,System-wide Performance Profiler for Linux,https://www.sysprof.com/
+udevadm,udev management tool,man udevadm
