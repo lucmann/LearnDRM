@@ -3,6 +3,7 @@ collective learning DRM subsystem material
 
 
 |Name|Description|Homepage|
+|:---|:----------|:-------|
 |apitrace|A set of tools to trace and replay rendering APIs|https://apitrace.github.io/|
 |dmesg| echo 0xff > /sys/module/drm/parameters/debug| |
 |drm_info|Small utility to dump info about DRM devices|https://gitlab.freedesktop.org/emersion/drm_info|
